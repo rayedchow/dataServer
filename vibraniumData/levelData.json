@@ -1,0 +1,99 @@
+{
+	"MINING": {
+		"COBBLESTONE": {
+			"50": "Beginner Pickaxe Recipe",
+			"100": "Gravel Unlock",
+			"250": "Raspberry Recipe",
+			"500": "Stone Armor Unlock",
+			"800": "5x Enhancement Tokens",
+			"1000": "Infested Axe",
+			"3000": "Villager Chestplate"
+		},
+		"COAL": {
+			"50": "Haste Helmet",
+			"100": "Miner's Pickaxe",
+			"500": "Miner Minion",
+			"800": "Furnace Fuel",
+			"1000": "Coal Sword",
+			"5000": "Miner's Bow"
+		},
+		"REDSTONE": {
+			"100": "Powder Recipe",
+			"300": "Berry Shield Recipe",
+			"600": "Enhanced Powder Recipe",
+			"800": "Berry Bow Unlock",
+			"1000": "Packed Powder Recipe"
+		},
+		"VIBRANIUM": {
+			"100": "Vibranium Minion",
+			"300": "Dungeon Key Recipe",
+			"500": "Enhanced Vibranium Recipe",
+			"800": "30x Enhancement Tokens",
+			"1000": "Vibranium Katanna Unlock",
+			"1500": "Dungeon Helmet Unlock",
+			"1800": "Vibranium Miner",
+			"2000": "Blacksmithing Table Recipe",
+			"5000": "Vibranium Armor Recipe"
+		}
+	},
+
+	"FORAGING": {
+		"OAK": {
+			"50": "Apple's Glory",
+			"100": "Enhanced Oak Recipe",
+			"500": "Oak Bark Recipe",
+			"600": "Chuck's Axe",
+			"800": "Wooden Minion",
+			"1000": "Axe of the Timbers"
+		},
+		"SPRUCE": {
+			"100": "Woodland Helmet",
+			"300": "3x Enhancement Tokens",
+			"600": "Woodland Dungeon Key",
+			"800": "Blacksmithing Token Recipe",
+			"1000": "Woodland Leggings",
+			"3000": "Spruce Axe"
+		},
+		"JUNGLE": {
+			"15": "Jungle Dungeon Key Recipe",
+			"100": "Jungle Chestplate Unlock",
+			"500": "Enhanced Jungle Wood Recipe",
+			"800": "Cocoa Wood Recipe",
+			"1000": "Jungle Bow Unlock"
+		}
+	},
+
+	"FARMING": {
+		"SEEDS": {
+			"50": "Soiled Hoe Unlock",
+			"300": "Hat of Seeds Recipe",
+			"500": "Boots of Seeds Recipe"
+		},
+		"WHEAT": {
+			"30": "Wheat Arrow Recipe",
+			"100": "Enhanced Wheat Recipe",
+			"500": "Wheat Minion Recipe",
+			"800": "Enhanced Hay Recipe",
+			"1000": "Axe of Hay Unlock",
+			"1300": "Farmer Minion Recipe",
+			"3000": "Farmer Dungeon Key Unlock"
+		},
+		"CARROT": {
+			"100": "Carrot Boost Unlock",
+			"300": "Enhanced Carrot Recipe",
+			"600": "The Bow of the Pig's Breader"
+		},
+		"POTATO": {
+			"50": "Potato Hoe Recipe",
+			"300": "Potato Boost Unlock",
+			"500": "Farmer's Hoe Unlock"
+		},
+		"PUMPKIN": {
+			"3": "The Axe of Pumpkins Unlock",
+			"60": "Pumpkin Totem Recipe",
+			"100": "Pumpkin Boost Recipe",
+			"800": "Enhanced Pumpkin Recipe",
+			"1000": "Pumpkin Leggings Recipe"
+		}
+	}
+}
