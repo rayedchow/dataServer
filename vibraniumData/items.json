@@ -1,0 +1,99 @@
+{
+	"MINING": [
+		"COBBLESTONE": [
+			"Beginner Pickaxe Recipe",
+			"Gravel Unlock",
+			"Raspberry Recipe",
+			"Stone Armor Unlock",
+			"5x Enhancement Tokens",
+			"Infested Axe",
+			"Villager Chestplate"
+		],
+		"COAL": [
+			"Haste Helmet",
+			"Miner's Pickaxe",
+			"Miner Minion",
+			"Furnace Fuel",
+			"Coal Sword",
+			"Miner's Bow"
+		],
+		"REDSTONE": [
+			"Powder Recipe",
+			"Berry Shield Recipe",
+			"Enhanced Powder Recipe",
+			"Berry Bow Unlock",
+			"Packed Powder Recipe"
+		],
+		"VIBRANIUM": [
+			"Vibranium Minion",
+			"Dungeon Key Recipe",
+			"Enhanced Vibranium Recipe",
+			"30x Enhancement Tokens",
+			"Vibranium Katanna Unlock",
+			"Dungeon Helmet Unlock",
+			"Vibranium Miner",
+			"Blacksmithing Table Recipe",
+			"Vibranium Armor Recipe"
+		]
+	],
+
+	"FORAGING": [
+		"OAK": [
+			"Apple's Glory",
+			"Enhanced Oak Recipe",
+			"Oak Bark Recipe",
+			"Chuck's Axe",
+			"Wooden Minion",
+			"Axe of the Timbers"
+		],
+		"SPRUCE": [
+			"Woodland Helmet",
+			"3x Enhancement Tokens",
+			"Woodland Dungeon Key",
+			"Blacksmithing Token Recipe",
+			"Woodland Leggings",
+			"Spruce Axe"
+		],
+		"JUNGLE": [
+			"Jungle Dungeon Key Recipe",
+			"Jungle Chestplate Unlock",
+			"Enhanced Jungle Wood Recipe",
+			"Cocoa Wood Recipe",
+			"Jungle Bow Unlock"
+		]
+	],
+
+	"FARMING": [
+		"SEEDS": [
+			"Soiled Hoe Unlock",
+			"Hat of Seeds Recipe",
+			"Boots of Seeds Recipe"
+		],
+		"WHEAT": [
+			"Wheat Arrow Recipe",
+			"Enhanced Wheat Recipe",
+			"Wheat Minion Recipe",
+			"Enhanced Hay Recipe",
+			"Axe of Hay Unlock",
+			"Farmer Minion Recipe",
+			"Farmer Dungeon Key Unlock"
+		],
+		"CARROT": [
+			"Carrot Boost Unlock",
+			"Enhanced Carrot Recipe",
+			"The Bow of the Pig's Breader"
+		],
+		"POTATO": [
+			"Potato Hoe Recipe",
+			"Potato Boost Unlock",
+			"Farmer's Hoe Unlock"
+		],
+		"PUMPKIN": [
+			"The Axe of Pumpkins Unlock",
+			"Pumpkin Totem Recipe",
+			"Pumpkin Boost Recipe",
+			"Enhanced Pumpkin Recipe",
+			"Pumpkin Leggings Recipe"
+		]
+	]
+}
