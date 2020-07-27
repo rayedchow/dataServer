@@ -1,6 +1,6 @@
 {
 	"MINING": {
-		"COBBLESTONE":[
+		"COBBLESTONE": [
 			"Beginner Pickaxe Recipe",
 			"Gravel Unlock",
 			"Raspberry Recipe",
@@ -9,7 +9,7 @@
 			"Infested Axe",
 			"Villager Chestplate"
 		],
-		"COAL":[
+		"COAL": [
 			"Haste Helmet",
 			"Miner's Pickaxe",
 			"Miner Minion",
@@ -17,14 +17,14 @@
 			"Coal Sword",
 			"Miner's Bow"
 		],
-		"REDSTONE":[
+		"REDSTONE": [
 			"Powder Recipe",
 			"Berry Shield Recipe",
 			"Enhanced Powder Recipe",
 			"Berry Bow Unlock",
 			"Packed Powder Recipe"
 		],
-		"VIBRANIUM":[
+		"VIBRANIUM": [
 			"Vibranium Minion",
 			"Dungeon Key Recipe",
 			"Enhanced Vibranium Recipe",
@@ -38,7 +38,7 @@
 	},
 
 	"FORAGING": {
-		"OAK":[
+		"OAK": [
 			"Apple's Glory",
 			"Enhanced Oak Recipe",
 			"Oak Bark Recipe",
@@ -46,7 +46,7 @@
 			"Wooden Minion",
 			"Axe of the Timbers"
 		],
-		"SPRUCE":[
+		"SPRUCE": [
 			"Woodland Helmet",
 			"3x Enhancement Tokens",
 			"Woodland Dungeon Key",
@@ -54,7 +54,7 @@
 			"Woodland Leggings",
 			"Spruce Axe"
 		],
-		"JUNGLE":[
+		"JUNGLE": [
 			"Jungle Dungeon Key Recipe",
 			"Jungle Chestplate Unlock",
 			"Enhanced Jungle Wood Recipe",
@@ -64,12 +64,12 @@
 	},
 
 	"FARMING": {
-		"SEEDS":[
+		"SEEDS": [
 			"Soiled Hoe Unlock",
 			"Hat of Seeds Recipe",
 			"Boots of Seeds Recipe"
 		],
-		"WHEAT":[
+		"WHEAT": [
 			"Wheat Arrow Recipe",
 			"Enhanced Wheat Recipe",
 			"Wheat Minion Recipe",
@@ -78,17 +78,17 @@
 			"Farmer Minion Recipe",
 			"Farmer Dungeon Key Unlock"
 		],
-		"CARROT":[
+		"CARROT": [
 			"Carrot Boost Unlock",
 			"Enhanced Carrot Recipe",
 			"The Bow of the Pig's Breader"
 		],
-		"POTATO":[
+		"POTATO": [
 			"Potato Hoe Recipe",
 			"Potato Boost Unlock",
 			"Farmer's Hoe Unlock"
 		],
-		"PUMPKIN":[
+		"PUMPKIN": [
 			"The Axe of Pumpkins Unlock",
 			"Pumpkin Totem Recipe",
 			"Pumpkin Boost Recipe",
