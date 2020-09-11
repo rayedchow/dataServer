@@ -1,6 +1,6 @@
 {
 	"COBBLESTONE_MINER": {
-		"item_type": {
+		"itemData": {
 			"item": "furnace",
 			"name": "&7Cobblestone Miner"
 		},
