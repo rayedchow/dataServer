@@ -5,6 +5,10 @@
 			"name": "&7Cobblestone Miner",
 			"inv": "furnace inventory"
 		},
+		"minerals": {
+			"cobble_stone": "cobble_stone",
+			"stone": "cobble_stone"
+		},
 		"tiers": {
 			"1": {
 				"cost": 10000,
