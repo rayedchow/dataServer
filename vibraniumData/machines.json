@@ -1,7 +1,7 @@
 {
 	"COBBLESTONE_MINER": {
 		"itemData": {
-			"item": "furnace",
+			"item": "non-burning_furnace",
 			"name": "&7Cobblestone Miner",
 			"inv": "furnace inventory"
 		},
