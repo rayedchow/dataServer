@@ -2,7 +2,8 @@
 	"COBBLESTONE_MINER": {
 		"itemData": {
 			"item": "furnace",
-			"name": "&7Cobblestone Miner"
+			"name": "&7Cobblestone Miner",
+			"inv": "furnace inventory"
 		},
 		"tiers": {
 			"1": {
