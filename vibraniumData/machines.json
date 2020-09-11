@@ -1,60 +1,66 @@
 {
 	"COBBLESTONE_MINER": {
-		"1": {
-			"cost": 10000,
-			"desc": [
-				"Pings all machines every 5 minutes",
-				"30% Chance for a Bonus +5 Minerals on Collection",
-				"Maximum Bound of 3 Blocks"
-			],
-			"ping": 10,
-			"bonus": {
-				"count": 5,
-				"chance": 30
+		"item_type": {
+			"item": "furnace",
+			"name": "&7Cobblestone Miner"
+		},
+		"tiers": {
+			"1": {
+				"cost": 10000,
+				"desc": [
+					"Pings all machines every 5 minutes",
+					"30% Chance for a Bonus +5 Minerals on Collection",
+					"Maximum Bound of 3 Blocks"
+				],
+				"ping": 10,
+				"bonus": {
+					"count": 5,
+					"chance": 30
+				}
+			},
+			"2": {
+				"cost": 30000,
+				"desc": [
+					"Pings all machines every 4 minutes",
+					"80% Chance for a Bonus +8 Minerals on Collection",
+					"Maximum Bound of 3 Blocks"
+				],
+				"ping": 8,
+				"bonus": {
+					"count": 8,
+					"chance": 80
+				}
+			},
+			"3": {
+				"cost": 80000,
+				"desc": [
+					"Pings all machines every 3 minutes",
+					"10% Chance to Duplicate Minerals on Collection",
+					"Maximum Bound of 4 Blocks"
+				],
+				"ping": 6,
+				"dupe": 10
+			},
+			"4": {
+				"cost": 160000,
+				"desc": [
+					"Pings all machines every 2 minutes",
+					"20% Chance to Duplicate Minerals on Collection",
+					"Maximum Bound of 5 Blocks"
+				],
+				"ping": 4,
+				"dupe": 20
+			},
+			"5": {
+				"cost": 300000,
+				"desc": [
+					"Pings all machines every 2 minutes",
+					"50% Chance to Duplicate Minerals on Collection",
+					"Maximum Bound of 6 Blocks"
+				],
+				"ping": 4,
+				"dupe": 50
 			}
-		},
-		"2": {
-			"cost": 30000,
-			"desc": [
-				"Pings all machines every 4 minutes",
-				"80% Chance for a Bonus +8 Minerals on Collection",
-				"Maximum Bound of 3 Blocks"
-			],
-			"ping": 8,
-			"bonus": {
-				"count": 8,
-				"chance": 80
-			}
-		},
-		"3": {
-			"cost": 80000,
-			"desc": [
-				"Pings all machines every 3 minutes",
-				"10% Chance to Duplicate Minerals on Collection",
-				"Maximum Bound of 4 Blocks"
-			],
-			"ping": 6,
-			"dupe": 10
-		},
-		"4": {
-			"cost": 160000,
-			"desc": [
-				"Pings all machines every 2 minutes",
-				"20% Chance to Duplicate Minerals on Collection",
-				"Maximum Bound of 5 Blocks"
-			],
-			"ping": 4,
-			"dupe": 20
-		},
-		"5": {
-			"cost": 300000,
-			"desc": [
-				"Pings all machines every 2 minutes",
-				"50% Chance to Duplicate Minerals on Collection",
-				"Maximum Bound of 6 Blocks"
-			],
-			"ping": 4,
-			"dupe": 50
 		}
 	}
 }
