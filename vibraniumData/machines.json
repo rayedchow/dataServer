@@ -12,12 +12,12 @@
 		"tiers": {
 			"1": {
 				"cost": 10000,
-				"desc": [
-					"Pings all machines every 5 minutes",
-					"30% Chance for a Bonus +5 Minerals on Collection",
-					"Maximum Bound of 3 Blocks",
-					"+128 Storage"
-				],
+				"desc": {
+					"1": "Pings all machines every 5 minutes",
+					"2": "30% Chance for a Bonus +5 Minerals on Collection",
+					"3": "Maximum Bound of 3 Blocks",
+					"4": "+128 Storage"
+				},
 				"ping": 10,
 				"storage": 256,
 				"radius": 3,
