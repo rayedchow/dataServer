@@ -20,6 +20,7 @@
 				],
 				"ping": 10,
 				"storage": 256,
+				"radius": 3,
 				"bonus": {
 					"count": 5,
 					"chance": 30
@@ -34,6 +35,7 @@
 				],
 				"ping": 8,
 				"storage": 320,
+				"radius": 3,
 				"bonus": {
 					"count": 8,
 					"chance": 80
@@ -49,6 +51,7 @@
 				],
 				"ping": 6,
 				"storage": 384,
+				"radius": 4,
 				"dupe": 10
 			},
 			"4": {
