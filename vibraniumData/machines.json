@@ -15,9 +15,11 @@
 				"desc": [
 					"Pings all machines every 5 minutes",
 					"30% Chance for a Bonus +5 Minerals on Collection",
-					"Maximum Bound of 3 Blocks"
+					"Maximum Bound of 3 Blocks",
+					"+128 Storage"
 				],
 				"ping": 10,
+				"storage": 256,
 				"bonus": {
 					"count": 5,
 					"chance": 30
@@ -28,9 +30,11 @@
 				"desc": [
 					"Pings all machines every 4 minutes",
 					"80% Chance for a Bonus +8 Minerals on Collection",
-					"Maximum Bound of 3 Blocks"
+					"Maximum Bound of 3 Blocks",
+					"+64 Storage"
 				],
 				"ping": 8,
+				"storage": 320,
 				"bonus": {
 					"count": 8,
 					"chance": 80
@@ -41,9 +45,11 @@
 				"desc": [
 					"Pings all machines every 3 minutes",
 					"10% Chance to Duplicate Minerals on Collection",
-					"Maximum Bound of 4 Blocks"
+					"Maximum Bound of 4 Blocks",
+					"+64 Storage"
 				],
 				"ping": 6,
+				"storage": 384,
 				"dupe": 10
 			},
 			"4": {
@@ -61,9 +67,11 @@
 				"desc": [
 					"Pings all machines every 2 minutes",
 					"50% Chance to Duplicate Minerals on Collection",
-					"Maximum Bound of 6 Blocks"
+					"Maximum Bound of 6 Blocks",
+					"+128 Storage"
 				],
 				"ping": 4,
+				"storage": 512,
 				"dupe": 50
 			}
 		}
