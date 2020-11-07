@@ -146,7 +146,7 @@
 	"TREE_HARVESTER": {
 		"itemData": {
 			"item": "dropper",
-			"name": "&2Tree Harbvester",
+			"name": "&2Tree Harvester",
 			"inv": "dropper inventory"
 		},
 		"minerals": {
@@ -162,6 +162,7 @@
 			"radius": 3,
 			"storage": 64
 		},
+		"yAxis": 10,
 		"tiers": {
 			"1": {
 				"cost": 1000000,
