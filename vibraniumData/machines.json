@@ -9,11 +9,16 @@
 			"cobble_stone": "cobble_stone",
 			"stone": "cobble_stone"
 		},
+		"defaults": {
+			"ping": 12,
+			"radius": 2,
+			"storage": 128
+		},
 		"tiers": {
 			"1": {
 				"cost": 10000,
 				"desc": [
-					"Pings all machines every 5 minutes",
+					"Pings machine every 5 minutes",
 					"30% Chance for a Bonus +5 Minerals on Collection",
 					"Maximum Bound of 3 Blocks",
 					"+128 Storage"
@@ -29,7 +34,7 @@
 			"2": {
 				"cost": 30000,
 				"desc": [
-					"Pings all machines every 4 minutes",
+					"Pings machine every 4 minutes",
 					"80% Chance for a Bonus +8 Minerals on Collection",
 					"+64 Storage"
 				],
@@ -44,7 +49,7 @@
 			"3": {
 				"cost": 80000,
 				"desc": [
-					"Pings all machines every 3 minutes",
+					"Pings machine every 3 minutes",
 					"10% Chance to Duplicate Minerals on Collection",
 					"Maximum Bound of 4 Blocks",
 					"+64 Storage"
@@ -57,7 +62,7 @@
 			"4": {
 				"cost": 160000,
 				"desc": [
-					"Pings all machines every 2 minutes",
+					"Pings machine every 2 minutes",
 					"20% Chance to Duplicate Minerals on Collection",
 					"Maximum Bound of 5 Blocks"
 				],
@@ -90,17 +95,23 @@
 			"coal_ore": "coal",
 			"iron_ore": "iron_ingot",
 			"redstone_ore_off": "redstone",
+			"active_redstone_ore": "redstone",
 			"lapis_lazuli_ore": "lapis",
 			"gold_ore": "gold_ingot",
 			"emerald_ore": "emerald",
 			"diamond_ore": "diamond",
 			"nether_quartz_ore": "nether_quartz_item"
 		},
+		"defaults": {
+			"ping": 16,
+			"radius": 2,
+			"storage": 32
+		},
 		"tiers": {
 			"1": {
 				"cost": 1000000,
 				"desc": [
-					"Pings all machines every 6 minutes",
+					"Pings machine every 6 minutes",
 					"Maximum Bound of 2 Blocks",
 					"+32 Storage"
 				],
@@ -111,7 +122,7 @@
 			"2": {
 				"cost": 5000000,
 				"desc": [
-					"Pings all machines every 4 minutes",
+					"Pings machine every 4 minutes",
 					"Maximum Bound of 3 Blocks",
 					"+32 Storage"
 				],
@@ -122,13 +133,47 @@
 			"3": {
 				"cost": 10000000,
 				"desc": [
-					"Pings all machines every 3 minutes",
+					"Pings machine every 3 minutes",
 					"Maximum Bound of 4 Blocks",
 					"+96 Storage"
 				],
 				"ping": 6,
 				"storage": 192,
 				"radius": 4
+			}
+		}
+	},
+	"TREE_HARVESTER": {
+		"itemData": {
+			"item": "dropper",
+			"name": "&2Tree Harbvester",
+			"inv": "dropper inventory"
+		},
+		"minerals": {
+			"birch log": "birch log",
+			"oak log": "oak log",
+			"acacia log": "acacia log",
+			"jungle log": "jungle log",
+			"dark oak log": "dark oak log",
+			"spruce log": "spruce log"
+		},
+		"defaults": {
+			"ping": 8,
+			"radius": 3,
+			"storage": 64
+		},
+		"tiers": {
+			"1": {
+				"cost": 1000000,
+				"desc": [
+					"Pings machine every 6 minutes",
+					"Maximum Bound of 2 Blocks",
+					"+32 Storage",
+					"u ar nob"
+				],
+				"ping": 1,
+				"storage": 64,
+				"radius": 5
 			}
 		}
 	}
