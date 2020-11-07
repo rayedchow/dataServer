@@ -79,9 +79,7 @@
 				"dupe": 50
 			}
 		}
-	}
-},
-{
+	},
 	"ORE_QUARRY": {
 		"itemData": {
 			"item": "dispenser",
