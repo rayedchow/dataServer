@@ -151,8 +151,8 @@
 		},
 		"minerals": {
 			"birch log": "birch log",
-			"oak log": "oak log",
-			"acacia log": "acacia log",
+			"any_oak_wooden_logs_item": "oak log",
+			"anyacacia_wooden_logs_item": "acacia log",
 			"jungle log": "jungle log",
 			"dark oak log": "dark oak log",
 			"spruce log": "spruce log"
