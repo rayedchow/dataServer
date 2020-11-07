@@ -80,4 +80,58 @@
 			}
 		}
 	}
+},
+{
+	"ORE_QUARRY": {
+		"itemData": {
+			"item": "dispenser",
+			"name": "&3Ore Quarry",
+			"inv": "dispenser inventory"
+		},
+		"minerals": {
+			"coal_ore": "coal",
+			"iron_ore": "iron_ingot",
+			"redstone_ore_off": "redstone",
+			"lapis_lazuli_ore": "lapis",
+			"gold_ore": "gold_ingot",
+			"emerald_ore": "emerald",
+			"diamond_ore": "diamond",
+			"nether_quartz_ore": "nether_quartz_item"
+		},
+		"tiers": {
+			"1": {
+				"cost": 1000000,
+				"desc": [
+					"Pings all machines every 6 minutes",
+					"Maximum Bound of 2 Blocks",
+					"+32 Storage"
+				],
+				"ping": 12,
+				"storage": 64,
+				"radius": 2
+			},
+			"2": {
+				"cost": 5000000,
+				"desc": [
+					"Pings all machines every 4 minutes",
+					"Maximum Bound of 3 Blocks",
+					"+32 Storage"
+				],
+				"ping": 8,
+				"storage": 96,
+				"radius": 3
+			},
+			"3": {
+				"cost": 10000000,
+				"desc": [
+					"Pings all machines every 3 minutes",
+					"Maximum Bound of 4 Blocks",
+					"+96 Storage"
+				],
+				"ping": 6,
+				"storage": 192,
+				"radius": 4
+			}
+		}
+	}
 }
