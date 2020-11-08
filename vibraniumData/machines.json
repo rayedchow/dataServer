@@ -239,7 +239,7 @@
 			"inv": "dispenser inventory"
 		},
 		"minerals": {
-			"melon": "melon_slice",
+			"melon": "melon",
 			"pumpkin": "pumpkin",
 			"ripe wheat": "wheat_item"
 		},
