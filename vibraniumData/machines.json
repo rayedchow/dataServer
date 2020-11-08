@@ -165,16 +165,141 @@
 		"yAxis": 10,
 		"tiers": {
 			"1": {
+				"cost": 20000,
+				"desc": [
+					"Maximum Bound of 4 Blocks",
+					"+32 Storage"
+				],
+				"ping": 8,
+				"storage": 96,
+				"radius": 4
+			},
+			"2": {
+				"cost": 60000,
+				"desc": [
+					"Maximum Bound of 5 Blocks",
+					"+32 Storage",
+					"Pings machine every 3 minutes"
+				],
+				"ping": 6,
+				"storage": 128,
+				"radius": 5
+			},
+			"3": {
+				"cost": 100000,
+				"desc": [
+					"Maximum Bound of 6 Blocks",
+					"+64 Storage",
+					"30% Chance for a Bonus +8 Minerals on Collection"
+				],
+				"ping": 6,
+				"storage": 192,
+				"radius": 6,
+				"bonus": {
+					"count": 8,
+					"chance": 30
+				}
+			},
+			"4": {
+				"cost": 800000,
+				"desc": [
+					"Maximum Bound of 8 Blocks",
+					"+64 Storage",
+					"50% Chance for a Bonus +10 Minerals on Collection"
+				],
+				"ping": 6,
+				"storage": 256,
+				"radius": 8,
+				"bonus": {
+					"count": 10,
+					"chance": 50
+				}
+			},
+			"5": {
 				"cost": 1000000,
 				"desc": [
-					"Pings machine every 6 minutes",
-					"Maximum Bound of 2 Blocks",
-					"+32 Storage",
-					"u ar nob"
+					"+64 Storage",
+					"50% Chance for a Bonus +16 Minerals on Collection",
+					"Pings machine every 2 minutes"
 				],
-				"ping": 1,
+				"ping": 4,
+				"storage": 320,
+				"radius": 8,
+				"bonus": {
+					"count": 16,
+					"chance": 50
+				}
+			}
+		}
+	},
+	"CROP_QUARRY": {
+		"itemData": {
+			"item": "dispenser",
+			"name": "&6Crop Quarry",
+			"inv": "dispenser inventory"
+		},
+		"minerals": {
+			"melon": "melon_slice",
+			"pumpkin": "pumpkin",
+			"ripe wheat": "wheat_item"
+		},
+		"defaults": {
+			"ping": 10,
+			"radius": 3,
+			"storage": 32
+		},
+		"tiers": {
+			"1": {
+				"cost": 800000,
+				"desc": [
+					"Maximum Bound of 4 Blocks",
+					"+16 Storage"
+				],
+				"ping": 10,
+				"storage": 48,
+				"radius": 4
+			},
+			"2": {
+				"cost": 1000000,
+				"desc": [
+					"Maximum Bound of 5 Blocks",
+					"+16 Storage"
+				],
+				"ping": 10,
 				"storage": 64,
 				"radius": 5
+			},
+			"3": {
+				"cost": 5000000,
+				"desc": [
+					"Maximum Bound of 6 Blocks",
+					"+32 Storage",
+					"Pings machine every 4 minutes"
+				],
+				"ping": 8,
+				"storage": 96,
+				"radius": 6
+			},
+			"4": {
+				"cost": 10000000,
+				"desc": [
+					"+32 Storage",
+					"Pings machine every 3 minutes"
+				],
+				"ping": 6,
+				"storage": 128,
+				"radius": 6
+			},
+			"5": {
+				"cost": 100000000,
+				"desc": [
+					"Maximum Bound of 8 Blocks",
+					"+64 Storage",
+					"Pings machine every 2 minutes"
+				],
+				"ping": 4,
+				"storage": 192,
+				"radius": 8
 			}
 		}
 	}
