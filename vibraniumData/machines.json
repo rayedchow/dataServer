@@ -233,6 +233,7 @@
 		}
 	},
 	"CROP_QUARRY": {
+		"replant": true,
 		"itemData": {
 			"item": "dispenser",
 			"name": "&6Crop Quarry",
@@ -240,7 +241,9 @@
 		},
 		"minerals": {
 			"melon": "melon",
+			"replant_melon": false,
 			"pumpkin": "pumpkin",
+			"replant_pumpkin": false,
 			"ripe wheat": "wheat_item"
 		},
 		"defaults": {
